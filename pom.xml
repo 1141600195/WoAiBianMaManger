@@ -12,12 +12,12 @@
 
 
     <modules>
-        <module>../WoAiBianMaWeb</module>
-        <module>../WoAiBianMaService</module>
-        <module>../WoAiBianMaPoJo</module>
-        <module>../WoAiBianMaMapper</module>
-        <module>../WoAiBianMaCommon</module>
-        <module>../WoAiBianMaConfigure</module>
+        <module>/WoAiBianMaWeb</module>
+        <module>/WoAiBianMaService</module>
+        <module>/WoAiBianMaPoJo</module>
+        <module>/WoAiBianMaMapper</module>
+        <module>/WoAiBianMaCommon</module>
+        <module>/WoAiBianMaConfigure</module>
         <!--    <module>../WoAiBianMaWebConfig</module>-->
     </modules>
 
